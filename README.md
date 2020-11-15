@@ -34,3 +34,4 @@ Bartosz Milewski의 [Category Theory for Programmers](https://github.com/hmemcpy
 
 # 목차
 ## Part One
+- [1. Category: The Essence of Composition](Part1/Category-The_Essence_of_Composition.md)
