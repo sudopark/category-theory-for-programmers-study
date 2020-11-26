@@ -40,3 +40,4 @@ Bartosz Milewski의 [Category Theory for Programmers](https://github.com/hmemcpy
 - [4. Kleisli Categories](Part1/4_Kleisli_Categories.md)
 - [5. Products and Coproducts](Part1/5_Products_and_Coproducts.md)
 - [6. Simple Algebric Data Types](Part1/6_Simple_Algebric_Data_Types.md)
+- [7. Functors](Part1/7_Functors.md)
