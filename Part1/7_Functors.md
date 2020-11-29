@@ -253,9 +253,12 @@ fmap :: (a -> b) -> (r -> a) -> (r -> b)
 
 ```haskell
 instance Functor ((->) r) where
-  -- fmap (a -> b) -> (r -> a) = (r -> b)
-  -- f :: a -> b, g :: r -> a /// f . g = r -> b
-  -- fmap f -> g = f . g
+  -- fmap :: (z0 -> z1) -> f z0 -> f z1
+  -- f가 (-> a) 이면 f z0은 ((-> a) z0) f z1은 ((-> a) z1)
+  -- (z0 -> z1) -> ((->) a) z0 -> ((->) a) z1
+  -- (z0 -> z1) -> (a -> z0) -> (a -> z1)
+  -- 이를 함수 합성 타입과 비교
+  -- (.) :: (b -> c) -> (a -> b) -> (a -> c)
   fmap f g = f . g
   -- g :: (r -> a) 의 펑터 fmap f는 
   -- prefix 형식으로 다음과 같이 써도 동일함
