@@ -43,3 +43,4 @@ Bartosz Milewski의 [Category Theory for Programmers](https://github.com/hmemcpy
 - [7. Functors](Part1/7_Functors.md)
 - [8. Functoriality](Part1/8_Functoriality.md)
 - [9. Function Types](Part1/9_Function_Types.md)
+- [10. Natural Transformations](Part1/10_Natural_Transformations.md)
