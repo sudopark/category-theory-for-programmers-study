@@ -18,7 +18,7 @@ Bartosz Milewski의 [Category Theory for Programmers](https://github.com/hmemcpy
         - 구조적 프로그래밍에서 합성가능한 코드블럭을 만들고 이를 합성 했었습니다.
         - 객체지향 언어는 객체 합성 그자체 입니다
         - 함수형 프로그래밍에서 함수와 수학적인 데이터 스트럭처를 합성하는것은 물론 동시성을 고려해야 하는 상황에서도 합성이 가능하게 합니다.
-3. 쉽게 수학을 가르쳐준다고합니다🤩
+3. 쉽게 수학을 가르쳐준다고합니다 ~~속았음..🥵~~
 
 #### 카테고리 이론을 배우려면 Haskell을 알아야하나? →  No
 책을 읽기에 앞서 당신은 함수형 언어(haskell)을 먼저 알아야하나 생각할수도 있지만 이는 카테고리 이론이 함수형 프로그래밍에만 적용된다고 말하는 것과 같습니다. 이론은 보다 범용적이기 때문에 저자는 C++를 통해 예제를 들것이라 합니다.
@@ -46,3 +46,4 @@ Bartosz Milewski의 [Category Theory for Programmers](https://github.com/hmemcpy
 - [10. Natural Transformations](Part1/10_Natural_Transformations.md)
 ## Part Two
 - [11. Declarative Programming](Part2/11_Declarative_Programming.md)
+- [12. Limits and Colimits](Part2/12_Limits_and_Colimits.md)
