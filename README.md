@@ -47,3 +47,4 @@ Bartosz Milewski의 [Category Theory for Programmers](https://github.com/hmemcpy
 ## Part Two
 - [11. Declarative Programming](Part2/11_Declarative_Programming.md)
 - [12. Limits and Colimits](Part2/12_Limits_and_Colimits.md)
+- [13. Free Monoids](Part2/13_Free_Monoids.md)
