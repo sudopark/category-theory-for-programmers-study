@@ -49,4 +49,7 @@ Bartosz Milewski의 [Category Theory for Programmers](https://github.com/hmemcpy
 - [12. Limits and Colimits](Part2/12_Limits_and_Colimits.md)
 - [13. Free Monoids](Part2/13_Free_Monoids.md)
 - [14. Representable Functors](Part2/14_Representable_Functors.md)
+- 15. The Yoneda Lemma
+- [16. Yoneda Embedding](Part2/16_Yoneda_Embedding.md)
+
 
