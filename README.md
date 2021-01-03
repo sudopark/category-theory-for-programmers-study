@@ -52,6 +52,7 @@ Bartosz Milewski의 [Category Theory for Programmers](https://github.com/hmemcpy
 - 15. The Yoneda Lemma
 - [16. Yoneda Embedding](Part2/16_Yoneda_Embedding.md)
 ## Part Three
-- [16. It's All About Morphisms](Part3/17_Its_All_About_Morphisms.md)
+- [17. It's All About Morphisms](Part3/17_Its_All_About_Morphisms.md)
+- [18. Adjunctions](Part3/18_Adjunctions.md)
 
 
