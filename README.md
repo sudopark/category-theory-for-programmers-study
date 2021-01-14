@@ -57,5 +57,6 @@ Bartosz Milewski의 [Category Theory for Programmers](https://github.com/hmemcpy
 - [19. Free/Forgetful Adjunctions](Part3/19_Free_Forgetful_Adjunctions.md)
 - [20. Monads: Programmer's Definition](Part3/20_Monads_Programmers_Definition.md)
 - [21. Monads and Effects](Part3/21_Monads_and_Effects.md)
+- [22. Monads Categorically](Part3/22_Monads_Categorically.md)
 
 
