@@ -60,5 +60,6 @@ Bartosz Milewski의 [Category Theory for Programmers](https://github.com/hmemcpy
 - [22. Monads Categorically](Part3/22_Monads_Categorically.md)
 - [23. Comonads](Part3/23_Comonads.md)
 - [24. F-Algebras](Part3/24_F_Algebras.md)
+- [25. Algebras for Monads](Part3/25_Algebras_for_Monads.md)
 
 
